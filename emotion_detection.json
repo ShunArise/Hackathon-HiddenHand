@@ -1,0 +1,26 @@
+{
+  "timestamp": 1782046389.56363,
+  "version": "v4_risk_ladder",
+  "face_detected": true,
+  "robot_state": "IDLE",
+  "raw_robot_state": "TIRED",
+  "fatigue_status": "TIRED",
+  "sleep_confidence": 0,
+  "fatigue_score": 42,
+  "expression_cue": "NEUTRAL_FOCUSED",
+  "ear": 0.2935658725960433,
+  "mar": 0.1850891570536065,
+  "perclos": 0.38461538461538464,
+  "blink_rate_per_min": 5.0,
+  "yawns_last_min": 0,
+  "eyes_closed_duration": 0.0,
+  "yawn_duration": 0.0,
+  "smile_ratio": 0.4182198781494089,
+  "corner_droop": -0.05406556280108401,
+  "head_pose": {
+    "pitch": -163.09955875606838,
+    "yaw": 6.912105346345801,
+    "roll": -2.6249097544186775
+  },
+  "music_playing": false
+}

@@ -1,0 +1,8 @@
+act_grabbing_trash_100k/
+Miniforge3*
+outputs/
+yolov8n.pt
+*.safetensors
+*.sh
+*.pyc
+__pycache__/
